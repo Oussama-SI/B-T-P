@@ -1,0 +1,17 @@
+{
+    'name': 'Facturation Client',
+    'version': '15.0.1.0',
+    'author': ["Oussama BOURROUS", "Youssef SAHIF"],
+    'category': 'Accounting/Accounting',
+    'website': 'https://www.yeltech.com',
+    'images' : [],
+    'summary': 'Facturation du BTP',
+    'description': """  """,
+    'depends' : ['base_setup', 'product', 'analytic', 'portal', 'project'],
+    'data': [],
+    'images': ['static/src/description/accountclient.png'],
+    'license': 'AGPL-3',
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+}
