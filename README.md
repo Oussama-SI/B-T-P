@@ -1,29 +1,22 @@
-🏗️ 1. What types of systems do large BTP companies use?
+## 🏗️ 1. What types of systems do large BTP companies use?
 
 Big construction companies (like TGCC, SGTM, SOMAGEC, Yamed, JESA, etc.) usually rely on professional digital systems, including:
 
-✅ A. ERP systems (Enterprise Resource Planning)
+### ✅ A. ERP systems (Enterprise Resource Planning)
 
-These unify finance, HR, procurement, inventory, planning, equipment management.
-
-Common ERPs used in Morocco’s BTP sector:
-
-SAP ERP (most used by large industrial & construction groups)
-
-Microsoft Dynamics 365
-
-Oracle ERP
-
-Odoo ERP (Enterprise/Community) — very popular for mid-sized firms
-
-Sage X3 — widely used in Morocco for finance & logistics
-
-Infor ERP (LN / M3) — used by manufacturing & construction sectors
+- These unify finance, HR, procurement, inventory, planning, equipment management.
+- Common ERPs used in Morocco’s BTP sector:
+- SAP ERP (most used by large industrial & construction groups)
+- Microsoft Dynamics 365
+- Oracle ERP
+- Odoo ERP (Enterprise/Community) — very popular for mid-sized firms
+- Sage X3 — widely used in Morocco for finance & logistics
+- Infor ERP (LN / M3) — used by manufacturing & construction sectors
 
 Large Moroccan groups often use SAP or Oracle.
 Mid-size construction firms often use Odoo, Sage X3, or Dynamics.
 
-🧱 B. BTP-specific systems (Construction Management Software)
+###🧱 B. BTP-specific systems (Construction Management Software)
 
 These tools manage projects, execution, pricing, planning, chantier monitoring, etc.
 
